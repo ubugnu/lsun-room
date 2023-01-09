@@ -5,9 +5,10 @@ imageio==2.9.0
 kornia==0.4.1
 opencv-python==4.5.1.48
 pillow==8.2.0
-pytorch-lightning==1.2
+pytorch-lightning==1.2.2
 scikit-image==0.18.1
 scipy==1.6.0
 tensorboardx==2.1
-# torch==1.7.1; python_full_version >= '3.6.2'
+torch==1.7.1
 tqdm==4.56.0
+torchtext==0.8.0
